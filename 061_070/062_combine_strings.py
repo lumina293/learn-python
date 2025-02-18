@@ -34,3 +34,7 @@ print(str7)
 str9 = "ft"
 str7 = "{}{}{}".format(str1, str9, str9)
 print(str7)
+
+# str9 = "ft"
+# str7 = "{}{}{}".format(str1, str9)
+# print(str7)
